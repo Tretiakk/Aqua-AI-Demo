@@ -1,15 +1,15 @@
 # AI App ©
 
-It uses real AI that supports nearly 50 world languages.
+It features AI integration supporting nearly 50 world languages.
 _____________________________________________________
 
-The app features a very modern and intuitive design.
+The app has a modern and intuitive design.
 _____________________________________________________
 
-The most advanced cross-platform Lottie animations.
+High-performance application with smooth animations.
 _____________________________________________________
 
-Light and dark themes in the app.
+Dark and Light theme support.
 
 # [Download app (only for android)](https://drive.google.com/file/d/1xON2KBqV5gWDe50h1kcnNXSM6f7M8fQ1/view?usp=sharing)
 
