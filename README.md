@@ -1,15 +1,18 @@
 # AI App ©
+###### Individual Project
 
-It features AI integration supporting nearly 50 world languages.
-_____________________________________________________
+**AI Integration:**
+Implements OpenAI API via Retrofit to provide real-time responses with localization support for 50+ languages.
 
-The app has a modern and intuitive design.
-_____________________________________________________
+**UI & Motion Design:**
+Built with Jetpack Compose, featuring hardware-accelerated Lottie animations and a native Dark/Light theme system.
 
-High-performance application with smooth animations.
-_____________________________________________________
+**Architecture:**
+Follows MVVM patterns for reactive state management, ensuring a decoupled and testable codebase.
 
-Dark and Light theme support.
+**Tech Stack:** <br>
+Kotlin, Jetpack Compose, MVVM, Retrofit, OpenAI API, Lottie, Compose Animations, JUnit, Gradle KTS.
+
 
 # [Download app (only for android)](https://drive.google.com/file/d/1xON2KBqV5gWDe50h1kcnNXSM6f7M8fQ1/view?usp=sharing)
 
