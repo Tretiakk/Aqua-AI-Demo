@@ -23,7 +23,7 @@ Kotlin, Jetpack Compose, MVVM, Retrofit, OpenAI API, Lottie, Compose Animations,
 
 <br>
 
-![](https://github.com/Tretiakk/AI-Demonstration/blob/main/AI%20Preview%203.png)
+<img src="AI%20Preview%203.png" width="70%">
 
 ### Main menu
 ![](https://github.com/Tretiakk/AI-Demonstration/blob/main/Main.png)
