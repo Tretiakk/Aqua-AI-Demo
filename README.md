@@ -1,6 +1,8 @@
 # AI App ©
 ###### Individual Project
 
+<img src="icon.svg" width="64" height="64">
+
 **AI Integration:**
 Implements OpenAI API via Retrofit to provide real-time responses with localization support for 50+ languages.
 
