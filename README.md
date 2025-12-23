@@ -13,7 +13,7 @@ Built with Jetpack Compose, featuring hardware-accelerated Lottie animations and
 Follows MVVM patterns for reactive state management, ensuring a decoupled and testable codebase.
 
 **Tech Stack:** <br>
-Kotlin, Jetpack Compose, MVVM, Retrofit, OpenAI API, Lottie, Compose Animations, JUnit, Gradle KTS.
+Kotlin, Jetpack Compose, MVVM, Coroutines, Flow, Retrofit, OpenAI API, Lottie, Compose Animations, JUnit, Gradle KTS.
 
 <br>
 
