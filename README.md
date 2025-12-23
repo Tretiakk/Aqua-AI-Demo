@@ -13,6 +13,12 @@ Follows MVVM patterns for reactive state management, ensuring a decoupled and te
 **Tech Stack:** <br>
 Kotlin, Jetpack Compose, MVVM, Retrofit, OpenAI API, Lottie, Compose Animations, JUnit, Gradle KTS.
 
+<h3>
+  <a href="https://drive.google.com/file/d/1QDGNpMV8VIkuZnfY1Kvn8Q1B4ULA5xt3/view?usp=sharing">
+    Download (Only for Android)
+  </a>
+</h3>
+
 ![](https://github.com/Tretiakk/AI-Demonstration/blob/main/AI%20Preview%203.png)
 
 ### Main menu
